@@ -1,0 +1,34 @@
+Features of the New Network:
+Number of Nodes: 100
+Number of Edges: 858
+Average Degree: 17.160
+Diameter: 6
+Clustering Coefficient: 0.648
+
+Features of the New Network:
+Number of Nodes: 200
+Number of Edges: 1052
+Average Degree: 10.520
+Diameter: 8
+Clustering Coefficient: 0.497
+
+Features of the New Network:
+Number of Nodes: 300
+Number of Edges: 2119
+Average Degree: 14.127
+Diameter: 12
+Clustering Coefficient: 0.528
+
+Features of the New Network:
+Number of Nodes: 500
+Number of Edges: 3683
+Average Degree: 14.732
+Diameter: 12
+Clustering Coefficient: 0.599
+
+Features of the New Network:
+Number of Nodes: 1000
+Number of Edges: 10508
+Average Degree: 21.016
+Diameter: 8
+Clustering Coefficient: 0.551
