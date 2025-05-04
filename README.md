@@ -1,1 +1,1 @@
-# Network-QLearning
+# Influence Minimization using Q-Learning
